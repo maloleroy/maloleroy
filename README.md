@@ -10,7 +10,7 @@ I'm passionate about **Quantum Computing**, and I'm part since nov. '23 of a hig
 
 > Feel free to [check out my resume](https://nightly.link/maloleroy/Resume/workflows/dxjoke-tectonic-docker/main/main.zip) on GitHub!
 
-I worked for 1 year as a Network & Services Administrator & General Secretary at [🛜 ViaRézo](https://viarezo.fr), France's largest student ISP & CP, operating 200+ servers and delivering a high-speed internet access to 2500+ clients.
+I worked for 1 year as a Network & DevSecOps Administrator and as the General Secretary at [🛜 ViaRézo](https://viarezo.fr), France's largest student ISP & CP, operating 200+ servers and delivering a high-speed internet access to 2500+ clients.
 
 ## 📦 Projects
 
