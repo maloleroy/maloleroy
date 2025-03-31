@@ -4,9 +4,9 @@
 
 I'm a 21 years old French MEng student at [CentraleSupélec 🇫🇷](https://www.centralesupelec.fr/en) ([Paris-Saclay University](https://www.universite-paris-saclay.fr/en), 12th in the [Shanghai Ranking](https://www.shanghairanking.com/rankings/arwu/2024) of world universities).
 
-Until july 2025, I'm working on exciting projects as a software engineer at [Paris Digital Lab](https://paris-digital-lab.com/), a highly selective gap year program where I'm prototyping multiple companies' most innovative projects! 🚀
+Until july 2025, I'm working on exciting projects as a software engineer at [Paris Digital Lab](https://paris-digital-lab.com/), an elite gap year program where I'm prototyping multiple companies' most innovative projects! 🚀
 
-I'm passionate about **Quantum Computing**, and I'm part since nov. '23 of a highliy selective part-time research track at [INRIA (QuaCS team)](https://www.inria.fr/fr/quacs), France's leading research institute for digital science & technology, discovering new data structures for fast classical simulation of quantum algorithms. [And it's all on GitHub!](https://github.com/maloleroy/coto)
+I'm passionate about **Quantum Computing**, and I'm part since nov. '23 of a highly selective part-time research track at [INRIA (QuaCS team)](https://www.inria.fr/fr/quacs), France's leading research institute for digital science & technology, discovering new data structures for fast classical simulation of quantum algorithms. [And it's all on GitHub!](https://github.com/maloleroy/coto)
 
 > Feel free to [check out my resume](https://nightly.link/maloleroy/Resume/workflows/dxjoke-tectonic-docker/main/main.zip) on GitHub!
 
