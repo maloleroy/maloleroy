@@ -20,12 +20,13 @@ I worked for 1 year as a Network & DevSecOps Administrator and as the General Se
 - 🎶 [Eanic](https://github.com/maloleroy/eanic) a cross-platform, pure-Dart MP3 meta-data reading library directly from the ID3 standard. It was the first open-source cross-platform ID3 reader in Dart!
 - *And many more! Check out the [full list](https://github.com/maloleroy?tab=repositories)*
 
+## 📺 Personal interests
+
+I'm a NixOS enthusiast and a Rust enjoyer! Aside from tech, I'm fond of japanese culture, mostly animated movies from the 1990s or the 2000s (Ghibli studios' movies, The End of Evangelion, Ghost in the Shell, ...)
+
 ## 📫 Contact
-<p>
-  <a href="https://www.linkedin.com/in/leroy-malo/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
-    </a>
-    <a href="mailto:malo.leroy@student-cs.fr">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" >
-    </a>
-</p>
+
+[![Mail](https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?logo=mail&logoColor=fff)](mailto:malo.leroy@student-cs.fr)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/leroy-malo/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11686234/malo-leroy)
+[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](https://anilist.co/user/fluteur/)
