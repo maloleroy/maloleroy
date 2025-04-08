@@ -25,18 +25,22 @@ I worked for 1 year as a Network & DevSecOps Administrator and as the General Se
 #### Languages
 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://www.rust-lang.org/fr)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://python.org)
+[![Dart](https://img.shields.io/badge/Dart-2BB6F6.svg?logo=dart&logoColor=white)](https://dart.dev/)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![PlantUML](https://img.shields.io/badge/PlantUML-FABD14?logo=uml&logoColor=000)](http://www.plantuml.com/)
 
-#### Frameworks & tools
+#### Tools & Frameworks
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](https://flutter.dev/)
-
-
+[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](https://docs.gitlab.com/ci/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
+[![CMake](https://img.shields.io/badge/CMake-3EAE2B?logo=cmake&logoColor=fff)](https://flutter.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-46D1FD?logo=flutter&logoColor=fff)](https://flutter.dev/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](https://kubernetes.io/)
 
 ## 📫 Contact
 
