@@ -20,13 +20,27 @@ I worked for 1 year as a Network & DevSecOps Administrator and as the General Se
 - 🎶 [Eanic](https://github.com/maloleroy/eanic) a cross-platform, pure-Dart MP3 meta-data reading library directly from the ID3 standard. It was the first open-source cross-platform ID3 reader in Dart!
 - *And many more! Check out the [full list](https://github.com/maloleroy?tab=repositories)*
 
-## 📺 Personal interests
+## ⚒️ Tech stack
 
-I'm a NixOS enthusiast and a Rust enjoyer! Aside from tech, I'm fond of japanese culture, mostly animated movies from the 1990s or the 2000s (Ghibli studios' movies, The End of Evangelion, Ghost in the Shell, ...)
+#### Languages
+
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+#### Frameworks & tools
+
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](https://flutter.dev/)
+
+
 
 ## 📫 Contact
 
 [![Mail](https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?logo=mail&logoColor=fff)](mailto:malo.leroy@student-cs.fr)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/leroy-malo/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11686234/malo-leroy)
-[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](https://anilist.co/user/fluteur/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/maloleroy)
