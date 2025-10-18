@@ -2,13 +2,15 @@
 
 ## 🤖 About me
 
-I'm a 21 years old French MEng student at [CentraleSupélec 🇫🇷](https://www.centralesupelec.fr/en) ([Paris-Saclay University](https://www.universite-paris-saclay.fr/en), 12th in the [Shanghai Ranking](https://www.shanghairanking.com/rankings/arwu/2024) of world universities).
+I'm a 21 years old French MEng student at [CentraleSupélec 🇫🇷](https://www.centralesupelec.fr/en) ([Paris-Saclay University](https://www.universite-paris-saclay.fr/en), 13th in the [Shanghai Ranking (ARWU)](https://www.shanghairanking.com/rankings/arwu/2025) of world universities).
 
-Until july 2025, I'm working on exciting projects as a software engineer at [Paris Digital Lab](https://paris-digital-lab.com/), an elite gap year program where I'm prototyping multiple companies' most innovative projects! 🚀
+I'm passionate about **Quantum Computing**, and until mid-November, I'm working as a quantum algorithms research intern at [IBM](https://www.ibm.com/quantum) in Germany, where I'm developing new quantum error mitigation techniques to improve the performance of quantum algorithms on noisy quantum hardware.
 
-I'm passionate about **Quantum Computing**, and I'm part since nov. '23 of a highly selective part-time research track at [INRIA (QuaCS team)](https://www.inria.fr/fr/quacs), France's leading research institute for digital science & technology, discovering new data structures for fast classical simulation of quantum algorithms. [And it's all on GitHub!](https://github.com/maloleroy/coto)
+I'm also part since nov. '23 of a highly selective part-time research track at [INRIA (QuaCS team)](https://www.inria.fr/fr/quacs), France's leading research institute for digital science & technology, discovering new data structures for fast classical simulation of quantum algorithms. [And it's all on GitHub!](https://github.com/maloleroy/coto)
 
-> Feel free to [check out my resume](https://nightly.link/maloleroy/Resume/workflows/dxjoke-tectonic-docker/main/main.zip) on GitHub!
+> Feel free to [check out my resume](https://github.com/maloleroy/Resume/raw/refs/heads/main/main.pdf) on GitHub!
+
+From February to July 2025, I worked on exciting projects as a software engineer at [Paris Digital Lab](https://paris-digital-lab.com/), an elite gap year program where I prototyped multiple companies' most innovative projects! 🚀 (BPCE Group, SNCF, Orange)
 
 I worked for 1 year as a Network & DevSecOps Administrator and as the General Secretary at [🛜 ViaRézo](https://viarezo.fr), France's largest student ISP & CP, operating 200+ servers and delivering a high-speed internet access to 2500+ clients.
 
