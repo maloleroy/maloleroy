@@ -4,7 +4,7 @@
 
 I'm a 21 years old French MEng student at [CentraleSupélec 🇫🇷](https://www.centralesupelec.fr/en) ([Paris-Saclay University](https://www.universite-paris-saclay.fr/en), 13th in the [Shanghai Ranking (ARWU)](https://www.shanghairanking.com/rankings/arwu/2025) of world universities).
 
-I'm passionate about **Quantum Computing**, and until mid-November, I'm working as a quantum algorithms research intern at [IBM](https://www.ibm.com/quantum) in Germany, where I'm developing new quantum error mitigation techniques to improve the performance of quantum algorithms on noisy quantum hardware.
+I'm passionate about **Quantum Computing**, and until July, I'm working as a quantum algorithms research intern at [IBM](https://www.ibm.com/quantum) in Germany, where I'm developing new quantum error mitigation techniques to improve the performance of quantum algorithms on noisy quantum hardware.
 
 I'm also part since nov. '23 of a highly selective part-time research track at [INRIA (QuaCS team)](https://www.inria.fr/fr/quacs), France's leading research institute for digital science & technology, discovering new data structures for fast classical simulation of quantum algorithms. [And it's all on GitHub!](https://github.com/maloleroy/coto)
 
